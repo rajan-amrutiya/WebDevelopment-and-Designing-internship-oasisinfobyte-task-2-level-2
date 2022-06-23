@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(0, 0, 0);
+    
+}
+
+h3{
+    font-family: Verdana;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-size: 37px;
+}
+
+h2{
+    color: white;
+    font-style: italic;
+    padding-left: 55px;
+    font-size: 26px;
+}
+
+h1{
+    font-family: Verdana;
+    color: white;
+    font-size: 12px;
+    padding-left: 100px;
+    padding-right: 500px;
+}
+
+.img1{
+ padding-right: 70px;
+
+    
+}
